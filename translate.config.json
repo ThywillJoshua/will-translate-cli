@@ -1,0 +1,7 @@
+{
+  "config": {
+    "default-file": "gb-en.json",
+    "files-path": "public/iI8n"
+  },
+  "project-name": "my-project"
+}
